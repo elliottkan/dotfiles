@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elliottkan7@gmail.com
+	name = Elliott Kan
